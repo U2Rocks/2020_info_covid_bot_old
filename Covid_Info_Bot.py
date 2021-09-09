@@ -11,7 +11,7 @@ def send_request(country_code, date):
 
     headers = {
         'x-rapidapi-host': "covid-19-data.p.rapidapi.com",
-        'x-rapidapi-key': "182ad95b56mshd51aa48f427222dp1777b2jsn5e6f9abd8f02"
+        'x-rapidapi-key': "API KEY HERE"
     }
 
     response = requests.request(
